@@ -32,7 +32,12 @@ Your project, **Streamlined Networking Integration**, is a **network troubleshoo
 
 ## Output
 
-#### Output0 -  LandingPage layout(output)
+#### Output0 - LandingPage (UI)
+
+![image](https://github.com/user-attachments/assets/b10332f3-55e8-4766-a0f4-ec96cd1ad0ea)
+
+
+## LandingPage layout(output)
 
 ![image](https://github.com/user-attachments/assets/0174726f-3e78-4ddd-879f-5eea69a07636)
 
