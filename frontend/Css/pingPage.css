@@ -25,8 +25,8 @@ body {
 }
 
 .logo i {
-    font-size: 24px; /* Makes the globe icon larger */
-    color: #061142; /* Dark blue */
+    font-size: 24px;
+    color: #061142;
 }
 .b3 {
     background: #0618A3;
@@ -47,7 +47,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    margin-left: 70px; /* Sidebar width */
+    margin-left: 70px; 
 }
 .ping-box {
     background: #5DB4FC;
