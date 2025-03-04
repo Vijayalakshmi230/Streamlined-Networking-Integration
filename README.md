@@ -32,18 +32,36 @@ Your project, **Streamlined Networking Integration**, is a **network troubleshoo
 
 ## Output
 
+#### Output0 - LandingPage (UI)
 
-#### Output1 - HomePage
+![image](https://github.com/user-attachments/assets/b10332f3-55e8-4766-a0f4-ec96cd1ad0ea)
+
+
+## LandingPage layout(output)
+
+![image](https://github.com/user-attachments/assets/0174726f-3e78-4ddd-879f-5eea69a07636)
+
+#### Output1 - HomePage (UI)
 
 
 ![Screenshot 2025-02-19 133213](https://github.com/user-attachments/assets/f2b421de-676f-470d-9f9f-854b0178f629)
 
-#### Output2 - Module Page
+## Hompage layout (output)
+
+![image](https://github.com/user-attachments/assets/482d46aa-2d4f-4278-b994-cc43cb9279a5)
+
+
+#### Output2 - Module Page (UI)
 
 ![Screenshot 2025-02-19 133226](https://github.com/user-attachments/assets/e690dddb-519b-4272-8202-e6dd311ff157)
 
+## ModulePage layout (output)
 
-#### Output3 - ChatBot
+
+![image](https://github.com/user-attachments/assets/f94127c4-9432-4157-8f99-32858e6a233b)
+
+
+#### Output3 - ChatBot (UI)
 
 ![Screenshot 2025-02-19 133256](https://github.com/user-attachments/assets/a78b5214-0b75-41a7-acb8-db151a7d487a)
 
